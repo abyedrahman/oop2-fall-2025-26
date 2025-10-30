@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\Task02\bin\Debug\Task02.exe.config
+C:\Users\USER\source\repos\Task02\bin\Debug\Task02.exe
+C:\Users\USER\source\repos\Task02\bin\Debug\Task02.pdb
+C:\Users\USER\source\repos\Task02\obj\Debug\Task02.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Task02\obj\Debug\Task02.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Task02\obj\Debug\Task02.exe
+C:\Users\USER\source\repos\Task02\obj\Debug\Task02.pdb
+C:\Users\USER\source\repos\Task02\obj\Debug\Task02.exe.config
