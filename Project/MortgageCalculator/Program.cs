@@ -11,7 +11,6 @@ class MortgageCalculator
         double annualInterestRate = Convert.ToDouble(Console.ReadLine());
         Console.Write("Enter Loan Term (years): ");
         int loanTermYears = Convert.ToInt32(Console.ReadLine());
-
         double monthlyInterestRate = (annualInterestRate / 100) / 12;
         int totalMonths = loanTermYears * 12;
         
