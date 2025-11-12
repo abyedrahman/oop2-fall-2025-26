@@ -1,0 +1,8 @@
+C:\Users\USER\oop2-fall-2025-26\Lab\HouseExercise\bin\Debug\HouseExercise.exe.config
+C:\Users\USER\oop2-fall-2025-26\Lab\HouseExercise\bin\Debug\HouseExercise.exe
+C:\Users\USER\oop2-fall-2025-26\Lab\HouseExercise\bin\Debug\HouseExercise.pdb
+C:\Users\USER\oop2-fall-2025-26\Lab\HouseExercise\obj\Debug\HouseExercise.csproj.AssemblyReference.cache
+C:\Users\USER\oop2-fall-2025-26\Lab\HouseExercise\obj\Debug\HouseExercise.csproj.CoreCompileInputs.cache
+C:\Users\USER\oop2-fall-2025-26\Lab\HouseExercise\obj\Debug\HouseExercise.exe
+C:\Users\USER\oop2-fall-2025-26\Lab\HouseExercise\obj\Debug\HouseExercise.pdb
+C:\Users\USER\oop2-fall-2025-26\Lab\HouseExercise\obj\Debug\HouseExercise.exe.config
